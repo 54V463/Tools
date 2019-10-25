@@ -1,6 +1,6 @@
 #!/bin/bash
 #Silahkan di recode :)
-#Jangan Lupa Subscribe MaulanaRyM
+#Jangan Lupa Subscribe Alex Manurung Channel
 
 #Variables
 b="\033[1m"
@@ -22,7 +22,7 @@ figlet ASW | lolcat
 
 echo "_____________________________________________________________"
 echo "Tools    : Kumpulan ASW Tools $white                         " |lolcat
-echo "Creadby  : Mr.yM $white                                      " |lolcat
+echo "Creadby  : Mr.54V463 $white                                      " |lolcat
 echo "Contact  : 0852xxxxxxxx   $white                             " |lolcat
 echo "_____________________________________________________________"
 
@@ -57,7 +57,7 @@ echo $r "5.  Tools-X${endc}";
 echo "============================" | lolcat
 echo $r "6. Exit${endc}";
 echo ""
-echo "╭─Mr.yM" |lolcat
+echo "╭─Mr.54V463" |lolcat
 read -p "╰─#" pil;
 
 # Nmap
@@ -117,7 +117,7 @@ bash /data/data/com.termux/files/home/Tool-X/sh install.aex
 ;;
 
 
-6) echo "created by : Mr.yM GANS" | lolcat
+6) echo "created by : Mr.54V463 GANS" | lolcat
 exit
 ;;
 
